@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Artur</h1>
+<h1 align="center">Hi there! 👋 I'm Artur, a passionate Frontend Developer</h1>
 
 ###
 
@@ -20,7 +20,30 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+I specialize in building dynamic and user-friendly web applications using React, JavaScript, HTML, and CSS. I enjoy creating clean, efficient, and responsive designs that deliver seamless user experiences.<br><br>
+
+🔧 Technologies I work with:
+
+<ul>
+<li>React</li>
+<li> JavaScript (ES6+)</li>
+<li>HTML5 & CSS3 (Flexbox, Grid, SASS)</li>
+<li> Version Control with Git</li>
+</ul>
+
+✨ Currently, I'm focused on:
+
+<ul>
+<li>Building reusable and scalable components in React</li>
+<li>Optimizing web performance</li>
+<li>Exploring modern front-end frameworks and tools</li>
+</ul>
+Feel free to check out my repositories to see some of the projects I'm working on!
+
+Let’s connect and collaborate!
+
+</p>
 
 ###
 
