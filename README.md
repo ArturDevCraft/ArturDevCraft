@@ -41,8 +41,6 @@ I specialize in building dynamic and user-friendly web applications using React,
 </ul>
 Feel free to check out my repositories to see some of the projects I'm working on!
 
-Let’s connect and collaborate!
-
 </p>
 
 ###
