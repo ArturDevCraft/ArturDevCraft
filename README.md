@@ -49,7 +49,9 @@ Feel free to check out my repositories to see some of the projects I'm working o
 
 ###
 
-<p align="left">- Project 1<br><br>- Project 2</p>
+<p align="left">- <a href= "https://github.com/ArturDevCraft/React_Course-Project_6">Project Managment app</a></p>
+<p align="left">- <a href= "https://github.com/ArturDevCraft/React-Course">My projects realized during React Course</a></p>
+<br><br>- Project 2</p>
 
 ###
 
