@@ -27,14 +27,17 @@ I specialize in building dynamic and user-friendly web applications using React,
 
 <ul>
 <li>React</li>
-<li> JavaScript (ES6+)</li>
+<li>JavaScript (ES6+)</li>
+<li>Redux</li>
+<li>Node.js (express, next.js)</li>
 <li>HTML5 & CSS3 (Flexbox, Grid, SASS)</li>
-<li> Version Control with Git</li>
+<li>Version Control with Git</li>
 </ul>
 
 ✨ Currently, I'm focused on:
 
 <ul>
+<li>Developing my own app to gain experience</li>
 <li>Building reusable and scalable components in React</li>
 <li>Optimizing web performance</li>
 <li>Exploring modern front-end frameworks and tools</li>
@@ -51,8 +54,8 @@ Feel free to check out my repositories to see some of the projects I'm working o
 
 <p align="left">- <a href= "https://github.com/ArturDevCraft/React_Course-Project_6">Project Managment app</a></p>
 <p align="left">- <a href= "https://github.com/ArturDevCraft/React-Course">My projects realized during React Course</a></p>
-<br><br>
-<p align="left">- Car Workshop Bookinf (in progress)</p>
+<br>
+<p align="left">- Car Workshop Bookinf (in progress):</p>
   <ul>
   <li><a href="https://github.com/ArturDevCraft/carWorkshop-frontend">Frontend</a></li>
   <li><a href="https://github.com/ArturDevCraft/carWorkshop-backend">Backend</a></li>
