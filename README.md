@@ -52,16 +52,23 @@ Feel free to check out my repositories to see some of the projects I'm working o
 
 ###
 
-<p align="left">- <a href= "https://github.com/ArturDevCraft/React_Course-Project_6">Project Managment app</a></p>
-<p align="left">- <a href= "https://github.com/ArturDevCraft/React-Course">My projects realized during React Course</a></p>
-<br>
-<p align="left">- Car Workshop Bookinf (in progress):</p>
+<h4 align="left">- Car Workshop APP (in progress):</h4>
   <ul>
-  <li><a href="https://github.com/ArturDevCraft/carWorkshop-frontend">Frontend</a></li>
-  <li><a href="https://github.com/ArturDevCraft/carWorkshop-backend">Backend</a></li>
-
+  <li><a href="https://workshop-frontend-woad.vercel.app/">Preview</a> </li>
+  <li><a href="https://github.com/ArturDevCraft/carWorkshop-frontend">Frontend Repository</a></li>
+  <li><a href="https://github.com/ArturDevCraft/carWorkshop-backend">Backend Repository</a></li>
   </ul>
-
+<h4 align="left">- Project Managment App:</h4>
+<ul>
+<li><a href="https://react-course-project-6.vercel.app/">Preview</a></li>
+<li><a href= "https://github.com/ArturDevCraft/React_Course-Project_6">Repository</a></li>
+</ul>
+<h4 align="left">My projects realized during React Course</h4>
+<ul>
+<li>Previews links are in repository readme</li>
+<li><a href= "https://github.com/ArturDevCraft/React-Course">Repository</a></li>
+</ul>
+<br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
