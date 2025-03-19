@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -44,26 +44,43 @@ I specialize in building dynamic and user-friendly web applications using React,
 </ul>
 Feel free to check out my repositories to see some of the projects I'm working on!
 
-</p>
+ </p>
 
 ###
 
-<h3 align="left">💼 My Projects</h3>
+<h2 align="left">💼 My Projects</h2>
 
 ###
 
-<h4 align="left">- Car Workshop APP (in progress):</h4>
+<h3 align="left"><u>Car Workshop APP (in progress):</u></h3>
   <ul>
   <li><a href="https://workshop-frontend-woad.vercel.app/">Preview</a> </li>
   <li><a href="https://github.com/ArturDevCraft/carWorkshop-frontend">Frontend Repository</a></li>
   <li><a href="https://github.com/ArturDevCraft/carWorkshop-backend">Backend Repository</a></li>
   </ul>
-<h4 align="left">- Project Managment App:</h4>
+<p>
+An app that allows you to order a visit to an auto repair shop and track the progress of the work. 
+One administrative user (workshop) and multiple customer accounts can be registered. </p>
+<p>
+The application consists of frontend and backend parts. The frontend is implemented using React, Redux, SCSS. I used node.js + express.js to write the backend.
+</p>
+<p>
+Logging is protected by an encrypted password. Authentication of the frontend with the backend is done using JSON web token. The application uses a mongoDB database. It is deployed on the Vercel platform. The application handle both data validation errors and connection issues. 
+</p>
+
+<br>
+
+<h3 align="left"><u>Project Managment App:</u></h3>
 <ul>
 <li><a href="https://react-course-project-6.vercel.app/">Preview</a></li>
 <li><a href= "https://github.com/ArturDevCraft/React_Course-Project_6">Repository</a></li>
 </ul>
-<h4 align="left">My projects realized during React Course</h4>
+<p>
+It is simple application implemented with REACT, Tailwind. With the help of the application You can can add and delete new project, for each project it's possible to add and delete tasks. State managment is realized by useState, additionaly application stores state in browser local storage. 
+</p>
+
+<br>
+<h3 align="left">My projects realized during React Course</h3>
 <ul>
 <li>Previews links are in repository readme</li>
 <li><a href= "https://github.com/ArturDevCraft/React-Course">Repository</a></li>
