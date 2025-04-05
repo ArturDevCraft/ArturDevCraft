@@ -70,6 +70,17 @@ Logging is protected by an encrypted password. Authentication of the frontend wi
 
 <br>
 
+<h3 align="left"><u>Online Shop Cart App</u></h3>
+<ul>
+<li><a href="https://shop-cart-dun.vercel.app/">Preview</a></li>
+<li><a href= "https://github.com/ArturDevCraft/shopCart">Repository</a></li>
+</ul>
+<p>
+A simple shopping cart application built with React and TypeScript, utilizing Redux for state management. The project showcases both class-based components and the use of Higher-Order Components (HOCs). Users can add, remove, and update product quantities in the cart, providing a clean and interactive shopping experience.
+</p>
+
+<br>
+
 <h3 align="left"><u>Project Managment App:</u></h3>
 <ul>
 <li><a href="https://react-course-project-6.vercel.app/">Preview</a></li>
